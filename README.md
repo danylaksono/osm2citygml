@@ -3,7 +3,15 @@ This tool will take XMLs of buildings from OSM using Overpass and convert it to 
 
 ![Screenshot](screenshot-cesium.png "Screenshot")
 
-To use on Ubuntu:
+Natively used for Ubuntu. For windows, please adjust accordingly.
+
+Dependencies (mainly for Windows):
+. Install pip (if you haven't already)
+. Install Mercantile (https://pypi.python.org/pypi/mercantile)
+. Install VC for Python (http://aka.ms/vcpython27)
+. Install pyproj
+
+To use:
 
 1. Install FME
 2. Download OSM2World from http://osm2world.org/download/files/latest/OSM2World-latest-bin.zip, and extract.

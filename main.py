@@ -1,10 +1,10 @@
 #!/usr/bin/env python
 
-west=-97.6
-east=-97.4
-north=35.55
-south=35.35
-job_zoom=11
+west=110.3606
+east=110.3696
+north=-7.7886
+south=-7.8024
+job_zoom=15
 
 import mercantile,os
 
